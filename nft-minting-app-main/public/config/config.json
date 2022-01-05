@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEce83f1Cc2DCcE2DEa0fd4eF53Dc298e2f113749",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xece83f1cc2dcce2dea0fd4ef53dc298e2f113749",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "People Lost In Metaverse",
+  "SYMBOL": "PPLLIM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/people-lost-in-metaverse-v2",
+  "SHOW_BACKGROUND": true
+}
